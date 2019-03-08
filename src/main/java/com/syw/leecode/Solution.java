@@ -1,5 +1,7 @@
 package com.syw.leecode;
 
+import java.util.Arrays;
+
 /**
  * @lc app=leetcode.cn id=1 lang=java
  * <p>
@@ -37,7 +39,6 @@ class Solution {
                 }
             }
         }
-
         return result;
     }
 
